@@ -1,4 +1,4 @@
-# Foo Project
+# What is Git ???
 
 ## My foo
 * Item 1
