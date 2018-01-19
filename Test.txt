@@ -1,1 +1,1 @@
-Test upload git add .
+Test upload stash ## hide your update 
